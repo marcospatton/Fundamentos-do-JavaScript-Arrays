@@ -12,3 +12,4 @@
 <li>Utilizar mais métodos, tais quais <i>indexOf() e includes()</i> para percorrer arrays e comparar resultados;</li>
 <li>Utilizar a estrutura for e entender seu funcionamento;
 <li>Substituir o for por métodos de array mais modernos do JavaScript, como <i>forEach().</i></li>
+<li>Mais detalhes sobre como trabalhar com métodos callback, como o map() para percorrer arrays.</li>
