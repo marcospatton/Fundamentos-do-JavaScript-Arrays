@@ -1,5 +1,10 @@
 # Fundamentos-do-JavaScript-Arrays
 
+<img src="https://github.com/marcospatton/Fundamentos-do-JavaScript-Tipos-vari-veis-e-fun-es/blob/main/logoJavaScript.png"></a>
+<br><br>
+
+
+
 <li>As características principais de arrays;</li>
 <li>Como funciona uma lista ordenada;</li>
 <li>Os conceitos de elemento, posição e índice;</li>
@@ -13,3 +18,4 @@
 <li>Utilizar a estrutura for e entender seu funcionamento;
 <li>Substituir o for por métodos de array mais modernos do JavaScript, como <i>forEach().</i></li>
 <li>Mais detalhes sobre como trabalhar com métodos callback, como o map() para percorrer arrays.</li>
+<li>Mais práticas para resolver problemas com arrays utilizando os métodos callback <i> filter() e reduce().</i></li>
