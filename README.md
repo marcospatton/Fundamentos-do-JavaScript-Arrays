@@ -1,1 +1,11 @@
 # Fundamentos-do-JavaScript-Arrays
+
+<li>As características principais de arrays;</li>
+<li>Como funciona uma lista ordenada;</li>
+<li>Os conceitos de elemento, posição e índice;</li>
+<li>Como identificar a quantidade de elementos em um array com .length;</li>
+<li>Como fazer as primeiras alterações em um array com .push() e .pop().</li>
+<li>Separar um array em partes com slice();</li>
+<li>Remover e incluir novos elementos em um array com splice();</li>
+<li>Concatenar elementos em um único array com concat();</li>
+<li>Trabalhar com arrays de duas dimensões.</li>
